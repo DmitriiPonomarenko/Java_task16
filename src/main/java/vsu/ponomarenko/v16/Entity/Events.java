@@ -1,4 +1,4 @@
-package vsu.ponomarenko.v16;
+package vsu.ponomarenko.v16.Entity;
 
 
 import javax.persistence.*;
